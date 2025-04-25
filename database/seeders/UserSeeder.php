@@ -4,7 +4,6 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use App\Models\User; // Make sure to import the User model
-use Hash;
 use Illuminate\Support\Facades\Hash; // Import Hash facade
 
 class UserSeeder extends Seeder
